@@ -1,3 +1,3 @@
-# Next Word Predictor
+# Smart Compose Editor
 
 
