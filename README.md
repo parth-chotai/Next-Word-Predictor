@@ -3,7 +3,7 @@
 ## Next Word Predictor
 
 <p align="center">
-  <img src="https://github.com/sagunesh-grover/AIDI-2005-Next-Word-Predictor/blob/main/05%20-%20PRODUCT%20TO%20LAUNCH/Model/demo.gif" alt="animated" />
+  <img src="https://github.com/parth-chotai/Next-Word-Predictor/blob/master/05%20-%20PRODUCT%20TO%20LAUNCH/Model/demo.gif" alt="animated" />
 </p>
 
 ## Problem Description
